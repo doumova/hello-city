@@ -4,14 +4,14 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>About Us | Hello City</title>
     </head>
     <body>
         <p>Bouild with &hearts; by GLobalt technologies</p>
         <p><a href="/">home page</a></p>
 
         <footer>
-            <p>&copy; Copiright GlobalTech.SA {{date('Y')}} &middot; <a href="/about-us">ABOUT US</a></p>
+            <p>&copy; Copiright GlobalTech.SA {{date('Y')}}</p>
         </footer>
     </body>
 </html>

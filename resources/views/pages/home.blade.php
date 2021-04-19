@@ -4,14 +4,17 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Hello City</title>
     </head>
     <body>
         <h1>Hello from maroc</h1>
         <p>It's currently {{date('H:i A')}}</p>
 
         <footer>
-            <p>&copy; Copiright GlobalTech.SA {{date('Y')}} &middot; <a href="/about-us">ABOUT US</a></p>
+            <p>
+                &copy; Copiright GlobalTech.SA {{date('Y')}} 
+                &middot; <a href="/about-us">ABOUT US</a>
+            </p>
         </footer>
     </body>
 </html>
