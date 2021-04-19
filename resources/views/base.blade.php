@@ -12,7 +12,9 @@
         <footer>
             <p>
                 &copy; Copiright GlobalTech.SA {{date('Y')}} 
+                @if(!Route::is('about'))
                 &middot; <a href="{{route('about')}}">ABOUT US</a>
+                @endif
             </p>
         </footer>
     </body>
