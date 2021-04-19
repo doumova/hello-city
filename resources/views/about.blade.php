@@ -7,8 +7,8 @@
         <title>Laravel</title>
     </head>
     <body>
-        <h1>Hello from maroc</h1>
-        <p>It's currently {{date('H:i A')}}</p>
+        <p>Bouild with &hearts; by GLobalt technologies</p>
+        <p><a href="/">home page</a></p>
 
         <footer>
             <p>&copy; Copiright GlobalTech.SA {{date('Y')}} &middot; <a href="/about-us">ABOUT US</a></p>
